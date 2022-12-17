@@ -4,9 +4,8 @@
     <option name="actions">
       <set>
         <option value="activate" />
-        <option value="organizeImports" />
+        <option value="activateOnShortcut" />
         <option value="reformat" />
-        <option value="missingOverrideAnnotation" />
       </set>
     </option>
     <option name="configurationPath" value="" />
